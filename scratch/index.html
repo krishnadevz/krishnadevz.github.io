@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Scratch Project Lookup</title>
+        <link href="scratch.css" rel="stylesheet" />
+        <script src="scratch.js"></script>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+    </head>
+    <body>
+        <h1>Scratch Project Lookup</h1>
+        <input autofocus id="link" placeholder="Scratch Project URL">
+        <button id="lookup">Lookup</button>
+
+        <div id="error">
+            This is an error.
+        </div>
+
+        <div id="results">
+            <hr>
+            <h2 id="project-name"></h2>
+            <h3 id="project-count"></h3>
+            <table id="checks">
+                <thead>
+                    <th>Pass</th>
+                    <th>Requirement</th>
+                </thead>
+                <tbody id="checks-body">
+                </tbody>
+            </table>
+        </div>
+    </body>
+</html>

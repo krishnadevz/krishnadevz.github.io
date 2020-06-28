@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+  {%- include head.html -%}
+
+  <body>
+    <main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        <div class="header">
+          <img class="profile" src="{{ '/assets/profile.png' | relative_url }}">
+          <h1 class="profile-name">krishna kakade</h1>
+
+          <div class="pure-menu pure-menu-horizontal pure-menu-scrollable">
+              <ul class="pure-menu-list">
+                  {% for page in site.data.navigation %}
+                    <li class="pure-menu-item"><a href="{{ page.link | relative_url }}" class="pure-menu-link">{{ page.name }}</a></li>
+                  {% endfor %}
+              </ul>
+          </div>
+        </div>
+
+        {% if page.center == true %}
+            <div class="content" style="text-align: center;">
+        {% else %}
+            <div class="content">
+        {% endif %}
+          {{ content }}
+        </div>
+
+      </div>
+    </main>
+  </body>
+
+</html>

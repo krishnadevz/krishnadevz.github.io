@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Scratch Project Lookup</title>
+        <link href="scratch.css" rel="stylesheet" />
+        <script src="multi.js"></script>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+    </head>
+    <body>
+        <h1>Scratch Project Lookup</h1>
+        <textarea rows="6" autofocus id="link" placeholder="Scratch Project URLs, one per line"></textarea>
+        <br/>
+        <button id="lookup">Lookup</button>
+
+        <div id="error">
+            This is an error.
+        </div>
+
+        <div id="results">
+            <hr>
+            <h3 id="project-count"></h3>
+            <table id="checks">
+                <thead>
+                    <th>Project ID</th>
+                    <th>Passed</th>
+                    <th>Sprites</th>
+                    <th>Cat</th>
+                    <th>Blocks</th>
+                    <th>Condition</th>
+                    <th>Loop</th>
+                    <th>Variable</th>
+                    <th>Sound</th>
+                </thead>
+                <tbody id="checks-body">
+                </tbody>
+            </table>
+        </div>
+    </body>
+</html>
