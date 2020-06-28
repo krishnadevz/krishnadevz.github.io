@@ -11,7 +11,7 @@ I am currently working on web-development and react related projects , and i als
 I'm the active tech blogger on [Dev.to](https://dev.to/krishnakakade) where i write things about web-development and react.
 I also write on Quora sometimes [Quora](https://www.quora.com/profile/Krishna-Kakade-2).
 
-I love technology/Space/Discovery🌍/spirituality.cuurently i am reading/learning/imagining and creating stuff.i like old rock and mordern/old pop and hiphop of eminem genre and sometimes i play fortnite.i am lucid dreamer and thinker and that's all about me.
+I love technology/Space/Discovery🌍/spirituality.currently i am reading/learning/imagining and creating stuff.i like old rock and modern/old pop and hiphop of eminem genre and sometimes i play fortnite.i am lucid dreamer and thinker and that's all about me.
 
 I mostly active on twitter you can see my recent tweets here on [Twitter](https://twitter.com/krishnadevz)
 
