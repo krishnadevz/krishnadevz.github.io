@@ -15,7 +15,7 @@ I mostly active on twitter you can see my recent tweets here on [Twitter](https:
 
 ## Contact Me
 
-* You can reach me at [brian@cs.harvard.edu](mailto:krishnadevz@protonmail.com).
+* You can reach me at [krishnadevz@protonmail.com](mailto:krishnadevz@protonmail.com).
 * You can find my all educational and certficates related details on [LinkedIn](https://www.linkedin.com/in/krishnakakade/)
 
 
