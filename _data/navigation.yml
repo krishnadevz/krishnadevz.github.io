@@ -1,8 +1,5 @@
 - name: Home
   link: /
-- name: Videos
-  link: /videos
 - name: Projects
   link: /projects
-- name: Courses
-  link: /courses
+
