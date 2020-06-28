@@ -1,0 +1,10 @@
+title: krishna kakade
+email: krishnadevz@protonmail.com
+baseurl: ""
+url: "https://krishnadevz.me"
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+

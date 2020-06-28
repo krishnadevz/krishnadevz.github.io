@@ -1,0 +1,29 @@
+---
+layout: default
+---
+
+# Hello World👋!
+
+I'm krishna Learning Full Stack(MERN) developer.
+I am third year Computer science and engineering student.
+I am currently working on web-development and react related projects , and i also like to contribute to various opensource projects/organizations on [Github](https://github.com/krishnadevz), I focus on learning, web development, opensource projects, and software tools.
+I'm the active tech blogger on [Dev.to](https://dev.to/krishnakakade) where i write things about web-development and react.
+I also write on Quora sometimes [Quora](https://www.quora.com/profile/Krishna-Kakade-2).
+
+I love technology/Space/Discovery🌍/spirituality.cuurently i am reading/learning/imagining and creating stuff.i like old rock and mordern/old pop and hiphop of eminem genre and sometimes i play fortnite.i am lucid dreamer and thinker and that's all about me.
+I mostly active on twitter you can see my recent tweets here on [Twitter](https://twitter.com/krishnadevz)
+
+## Contact Me
+
+* You can reach me at [brian@cs.harvard.edu](mailto:krishnadevz@protonmail.com).
+* You can find my all educational and certficates related details on [LinkedIn](https://www.linkedin.com/in/krishnakakade/)
+
+
+## Key Links
+
+* [GitHub](https://github.com/krishnadevz)
+* [LinkedIn](https://www.linkedin.com/in/krishnakakade/)
+* [Resume](https://gitconnected.com/krishnadevz/resume)
+* [Dev.to](https://dev.to/krishnakakade)
+* [StackOverflow](https://stackoverflow.com/users/8926157/krishna-kakade)
+* [Twitter](https://twitter.com/krishnadevz)
