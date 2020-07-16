@@ -33,5 +33,4 @@ I mostly active on twitter you can see my recent tweets here on [Twitter](https:
 ## Support Me
 * If my work/articles are helping you can support me on [BuyMeMilk](https://www.buymeacoffee.com/eAcXWMB)
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=krishnadevz.github.io.krishnadevz.github.io)
 
