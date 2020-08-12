@@ -5,7 +5,7 @@ layout: default
 # Hello World👋!
 
 I'm krishna Learning Full Stack(MERN) developer.
-I am third year Computer science and engineering student.
+I am final year Computer science and engineering student.
 I do things in which i am interested and having fun in that is very good feeling.
 I am currently working on web-development and react related projects , and i also like to contribute to various opensource projects/organizations on [Github](https://github.com/krishnadevz), I focus on learning, web development, opensource projects, and software tools.
 I'm the active tech blogger on [Dev.to](https://dev.to/krishnakakade) where i write things about web-development and react.
