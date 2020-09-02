@@ -15,6 +15,8 @@ I love technology/Space/Discovery🌍/spirituality.currently i am reading/learni
 
 I mostly active on twitter you can see my recent tweets here on [Twitter](https://twitter.com/krishnadevz)
 
+And when i am doing nothing i listen to my playlist 👉[krishnadevzPlaylist](https://www.youtube.com/playlist?list=PLpgxnKQJjhelT86IP_4S-DNQWHNIpaxYo) or else i play Fortnite and CSGO and i also like to visit temples/mountains/long walks. 
+
 ## Contact Me
 
 * You can reach me at [krishnadevz@protonmail.com](mailto:krishnadevz@protonmail.com).
