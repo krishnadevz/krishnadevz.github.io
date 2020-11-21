@@ -7,5 +7,5 @@ layout: default
 and codebase contributors of 2020.
 * On Dev my articles overview ✔️ 26,750+ views, 2600+ followers, 810+ reactions ,6+ Badges
 * I do things in which i am interested and having fun in that is very good feeling.
-* And when i am doing nothing i listen to my playlist 👉[Playlist](https://www.youtube.com/playlist?list=PLpgxnKQJjhelT86IP_4S-DNQWHNIpaxYo) or
+* And when i am doing nothing i listen to my playlist 👉[Playlist](https://www.youtube.com/playlist?list=PLpgxnKQJjhelT86IP_4S-DNQWHNIpaxYo) or else i play Fortnite and CSGO
 i also like to visit temples/mountains/long walks. 
