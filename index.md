@@ -6,16 +6,12 @@ layout: default
 
 I'm krishna Learning Full Stack(MERN) developer.
 I am final year Computer science and engineering student.
-I do things in which i am interested and having fun in that is very good feeling.
 I am currently working on web-development and react related projects , and i also like to contribute to various opensource projects/organizations on [Github](https://github.com/krishnadevz), I focus on learning, web development, opensource projects, and software tools.
-I'm the active tech blogger on [Dev.to](https://dev.to/krishnakakade) where i write things about web-development and react.
+I'm the active tech blogger on [Dev.to](https://dev.to/krishnakakade) where i write things about web-development and web frameworks/computer related stuff mostly. 
 I also write on Quora sometimes [Quora](https://www.quora.com/profile/Krishna-Kakade-2).
-
-I love technology/Space/Discovery🌍/spirituality.currently i am reading/learning/imagining and creating stuff.&sometimes i play fortnite.i am lucid dreamer and thinker and that's all about me.
 
 I mostly active on twitter you can see my recent tweets here on [Twitter](https://twitter.com/krishnadevz)
 
-And when i am doing nothing i listen to my playlist 👉[krishnadevzPlaylist](https://www.youtube.com/playlist?list=PLpgxnKQJjhelT86IP_4S-DNQWHNIpaxYo) or else i play Fortnite and CSGO and i also like to visit temples/mountains/long walks. 
 
 ## Contact Me
 
@@ -33,6 +29,6 @@ And when i am doing nothing i listen to my playlist 👉[krishnadevzPlaylist](ht
 * [Twitter](https://twitter.com/krishnadevz)
 
 ## Support Me
-* If my work/articles are helping you can support me on [BuyMeMilk](https://www.buymeacoffee.com/eAcXWMB)
+* If my work/articles/projects are helping you can support me on [BuyMeMilk](https://www.buymeacoffee.com/eAcXWMB)
 
 
