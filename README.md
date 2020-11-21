@@ -1,2 +1,2 @@
 # krishnadevz.github.io
-Portfolio using google fonts and jekyll
+ Portfolio using GitHub pages and Jekyll 
