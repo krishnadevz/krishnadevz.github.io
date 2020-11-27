@@ -23,7 +23,7 @@ I mostly active on twitter you can see my recent tweets here on [Twitter](https:
 
 * [GitHub](https://github.com/krishnadevz)
 * [LinkedIn](https://www.linkedin.com/in/krishnakakade/)
-* [Resume](https://docs.google.com/document/d/1Z-IiOHfdQjaM3qyaX4qgXX7KPD3bj3MghX_FL8XDqIM/edit?usp=sharing)
+* [Resume](https://drive.google.com/file/d/1KwFiSxPgdJ5V6GNLPw3b1c-1aN9KMwEJ/view?usp=sharing)
 * [Dev.to](https://dev.to/krishnakakade)
 * [StackOverflow](https://stackoverflow.com/users/8926157/krishna-kakade)
 * [Twitter](https://twitter.com/krishnadevz)
