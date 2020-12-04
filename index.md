@@ -8,7 +8,7 @@ I'm krishna Learning Full Stack(MERN) developer.
 I am final year Computer science and engineering student.
 I am currently working on web-development and react related projects , and i also like to contribute to various opensource projects/organizations on [Github](https://github.com/krishnadevz), I focus on learning, web development, opensource projects, and software tools.
 I'm the active tech blogger on [Dev.to](https://dev.to/krishnakakade) where i write things about web-development and web frameworks/computer related stuff mostly. 
-I also write on Quora sometimes [Quora](https://www.quora.com/profile/Krishna-Kakade-2).
+I also write sometimes on  [Medium](https://krishnakakade.medium.com/) and [Quora](https://www.quora.com/profile/Krishna-Kakade-2).
 
 I mostly active on twitter you can see my recent tweets here on [Twitter](https://twitter.com/krishnadevz)
 
