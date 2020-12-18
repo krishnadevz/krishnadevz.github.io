@@ -25,7 +25,7 @@ I mostly active on twitter you can see my recent tweets here on [Twitter](https:
 * [LinkedIn](https://www.linkedin.com/in/krishnakakade/)
 * [Resume](https://docs.google.com/document/d/1NEGtT10iNRuDqp6hxdC3-yIfSRYtP_Oq0r2_dZRPJd0/edit?usp=sharing)
 * [Dev.to](https://dev.to/krishnakakade)
-* [StackOverflow](https://stackoverflow.com/users/8926157/krishna-kakade)
+* [StackOverflow](https://stackoverflow.com/users/8926157/krishna-kakade?tab=profile)
 * [Twitter](https://twitter.com/krishnadevz)
 
 ## Support Me
