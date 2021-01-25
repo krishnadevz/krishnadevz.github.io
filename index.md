@@ -11,7 +11,7 @@ I'm the active tech blogger on [Dev.to](https://dev.to/krishnakakade) where i wr
 I also write sometimes on  [Medium](https://krishnakakade.medium.com/) and [Quora](https://www.quora.com/profile/Krishna-Kakade-2).
 
 I mostly active on twitter you can see my recent tweets here on [Twitter](https://twitter.com/krishnadevz)
-* I'm in for FullStack development and Research & Developement related apportunities. 
+* I'm in for FullStack development and Research & Developement related Opportunities. 
 
 ## Contact Me
 
