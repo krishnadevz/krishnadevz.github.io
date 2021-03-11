@@ -12,7 +12,7 @@ I also write sometimes on  [Medium](https://krishnakakade.medium.com/) and [Quor
 
 I mostly active on twitter you can see my recent tweets here on [Twitter](https://twitter.com/krishnadevz)
 * I'm in for FullStack development and Research & Developement related Opportunities. 
-
+* Nowadays I am also doing YouTube▶️ [Youtube](https://www.youtube.com/channel/UCTtvSf6G8KHpeh2i8t48PsQ)
 ## Contact Me
 
 * You can reach me at [krishnadevz@protonmail.com](mailto:krishnadevz@protonmail.com).
