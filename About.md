@@ -9,6 +9,7 @@ and codebase contributors of 2020.
 * I do things in which i am interested and having fun in that is very good feeling.
 * And when i am doing nothing i listen to my playlist 👉[Playlist](https://www.youtube.com/playlist?list=PLpgxnKQJjhelT86IP_4S-DNQWHNIpaxYo) or else i play Fortnite and CSGO
 i also like to visit temples/mountains/long walks. 
+* If you ask me why I make YouTube videos without cuts and edits the reason is after so many years if I want to look back and want to see myself then I can see original version of me so that i can improve Myself at every moment of my life.
 
 **Uses**
 * Ubuntu 20.04 stable
