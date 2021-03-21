@@ -14,3 +14,5 @@ i also like to visit temples/mountains/long walks.
 **Uses**
 * Ubuntu 20.04 stable
 * i don't know i wil update this or not but i wil try. hello GOD please stop COVID and make everyone's life happier peace.:)
+
+
