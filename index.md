@@ -29,7 +29,7 @@ I mostly active on twitter you can see my recent tweets here on [Twitter](https:
 * [Twitter](https://twitter.com/krishnadevz)
 * [Youtube](https://www.youtube.com/channel/UCTtvSf6G8KHpeh2i8t48PsQ)
 
-## Support Me
+<!--## Support Me
 * If my work/articles/projects are helping you can support me on [BuyMeMilk](https://www.buymeacoffee.com/eAcXWMB)
-
+-->
 
