@@ -4,9 +4,9 @@ layout: default
 
 # Hello World👋!
 
-I'm krishna Learning Full Stack(MERN) developer.
+I'm krishna Learning Full Stack(MERN) developer and more used to of frontend Development.
 I am final year Computer science and engineering student.
-I am currently working as Jr FullStack Develope @Codeswop(Cape Town SA)remotely , and i also like to contribute to various opensource projects/organizations on [Github](https://github.com/krishnadevz), I focus on learning, web development, opensource projects, and software tools.
+I am currently working as Jr FullStack Developer Intern @Codeswop(Cape Town SA)remotely , and i also like to contribute to various opensource projects/organizations on [Github](https://github.com/krishnadevz), I focus on learning, web development, opensource projects, and software tools.
 I'm the active tech blogger on [Dev.to](https://dev.to/krishnakakade) where i write things about web-development and web frameworks/computer related stuff mostly. 
 I also write sometimes on  [Medium](https://krishnakakade.medium.com/) and [Quora](https://www.quora.com/profile/Krishna-Kakade-2).
 
