@@ -6,12 +6,12 @@ layout: default
 
 I'm krishna Learning Full Stack(MERN) developer and i am looking for frontend development related opportunities.
 I am final year Computer science and engineering student.
-I am currently working as Jr FullStack Developer Intern @Codeswop(Cape Town SA)remotely , and i also like to contribute to various opensource projects/organizations on [Github](https://github.com/krishnadevz), I focus on learning, web development, opensource projects, and software tools.
+I also like to contribute to various opensource projects/organizations on [Github](https://github.com/krishnadevz), I focus on learning, web development, opensource projects, and software tools.
 I'm the active tech blogger on [Dev.to](https://dev.to/krishnakakade) where i write things about web-development and web frameworks/computer related stuff mostly. 
 I also write sometimes on  [Medium](https://krishnakakade.medium.com/) and [Quora](https://www.quora.com/profile/Krishna-Kakade-2).
 
 I mostly active on twitter you can see my recent tweets here on [Twitter](https://twitter.com/krishnadevz)
-* I'm in for FullStack development/Software Development and Research & Developement related Opportunities. 
+* I'm in for Frontend development/Software Development and Research & Developement related Opportunities. 
 
 ## Contact Me
 
