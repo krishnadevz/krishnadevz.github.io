@@ -10,3 +10,7 @@ At the moment, I am working as a software engineer based in Maharashtra, India a
 * My design work can be found on  [Behance](https://www.behance.net/krishnakakade) & on  [Figma Community](https://www.figma.com/@krishnadevz).
 *  I am Available for fulltime **UI/UX Design** & part-time **Photography** related opportunities. 
 
+
+`If we didn't find ourselves, we will end up living someone else's life.` - krishnadevz
+
+
