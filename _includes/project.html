@@ -1,0 +1,22 @@
+<div class="project">
+    {% if include.project.url %}
+        <a href="{{ include.project.url }}">
+            <img src="assets/images/projects/{{ include.project.img }}" />
+        </a>
+    {% else %}
+        <img src="assets/images/projects/{{ include.project.img }}" />
+    {% endif %}
+    <div>
+        {% if include.project.url %}
+            <a href="{{ include.project.url }}" class="project-title">{{ include.project.title }}</a>
+        {% else %}
+            <div class="project-title">{{ include.project.title }}</div>
+        {% endif %}
+        <p>{{ include.project.description }}</p>
+        <div class="project-links">
+            {% for link in include.project.links %}
+                <a href="{{ link.url }}">{{ link.name }}</a>
+            {% endfor %}
+        </div>
+    </div>
+</div>
