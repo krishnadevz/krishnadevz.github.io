@@ -1,0 +1,105 @@
+@media (prefers-color-scheme: dark) {
+    body {
+        background-color: #1a1a1a;
+        color: white;
+    }
+
+    .pure-menu-link:hover {
+        background-color: black;
+    }
+}
+@media (prefers-color-scheme: light) {
+    body {
+        background-color: white;
+        color: black;
+    }
+}
+
+body {
+    padding: 20px;
+    font-family: 'Lato', sans-serif;
+    font-size: 16px;
+}
+.header {
+    text-align: center;
+}
+.profile {
+    width: 150px;
+}
+.profile-name {
+    margin-top: 5px;
+    font-size: 36px;
+}
+.content {
+    max-width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+}
+p {
+    font-size: 16px;
+    line-height: 1.5;
+}
+a {
+    color: #258cdb;
+    text-decoration: none;
+}
+a:hover {
+    color: #2571db;
+}
+
+h1 {
+    font-size: 28px;
+}
+
+.ytp-chrome-top {
+    display: none !important;
+}
+
+.embed {
+    position: relative;
+    padding-bottom: 56.25%;
+    height: 0;
+    overflow: hidden;
+    max-width: 100%;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+.embed iframe, .embed object, .embed embed {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.post-date {
+    color: grey;
+}
+
+.project {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.project img {
+    width: 100px;
+    padding-right: 10px;
+    border-radius: 30%;
+}
+
+.project .project-title {
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.project p {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.project-links > a:not(:last-child):after {
+    content: ' · ';
+}
