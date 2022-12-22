@@ -12,8 +12,6 @@ layout: default
 * If I do not update this site in the future, details of my working, doing, and living can be found on [Linkedin](https://www.linkedin.com/in/krishnakakade/).
 * [krishnadevz tweets](https://twitter.com/krishnadevz).
 * If you're interested in my music taste check my youtube playlist [krishnadevz playlist](https://youtube.com/playlist?list=PLpgxnKQJjhelT86IP_4S-DNQWHNIpaxYo).
-* [Numb to grief](https://docs.google.com/document/d/e/2PACX-1vSIMwvK6IwHYb_J_YQUaMjrc0PUs9WLoCF3bmG1deAad_yqvDCtxHQBJYOiqaxcjtW0RN80Bb_HJRe2/pub)
-* Favourite Website - Internet archive library
 * Last updated 25 Nov 2022 - 11:11 AM. 
 
 
