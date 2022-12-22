@@ -25,7 +25,7 @@ Contact me at <krishnakakade77@gmail.com>.
 
 ## Awards
 
-* Third Runner Winner Up in Dev.to GFTWebhackathon. 
+* Third Runner Up Winner in Dev.to GFTWebhackathon (Grant for the web hackathon -2020). 
 * A special Gift for DEV's top authors, moderators, and codebase contributors of 2020 (50K+ Views , 1,090 + Total post reactions).
 
 
