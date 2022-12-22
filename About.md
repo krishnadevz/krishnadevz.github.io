@@ -16,7 +16,7 @@ layout: default
 
 * If you're interested in my music taste check my youtube playlist [krishnadevz playlist](https://youtube.com/playlist?list=PLpgxnKQJjhelT86IP_4S-DNQWHNIpaxYo).
 
-* Last updated 25 Nov 2022 - 11:11 AM. 
+* Last updated 22 Dec 2022 - 3:24 PM. 
 
 
 
