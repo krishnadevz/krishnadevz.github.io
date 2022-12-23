@@ -3,7 +3,7 @@ layout: default
 ---
 Hi, I'm Krishna 👋🏻.
 
-Hello, I'm Krishna and I'm based in Maharashtra, India. I am currently working on UX/UI, User Experience Research design projects and actively seeking UI/UX design jobs. As a designer, I am passionate about improving the lives of humans, and I always strive to learn something new on a daily basis.
+Hello, I'm Krishna and I'm based in Maharashtra, India. I am currently working on UX/UI, User Experience Design/Research projects and actively seeking UI/UX design jobs. As a designer, I am passionate about improving the lives of humans, and I always strive to learn something new on a daily basis.
 
 The things I enjoy are design, writing, drawing, clicking pictures, and making videos.
 
