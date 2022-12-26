@@ -5,20 +5,20 @@
   
   category: project
   links:
-    - name: Breath UX/UI Case Study
+    - name: Watch Breath UX/UI Case Study Youtube Demo📌
       url: https://www.youtube.com/watch?v=puDgjsLEBfk&t=1s&ab_channel=krishnadevz
     - name: Behance Case Study
       url: https://krishnadevz.github.io/
     
 
-- title: Covid-19 Tracker gftwhackathon-2020 web monitization 
+- title: Covid-19 Tracker + web monetization(gftwhackathon-2020)
   img: webmone.png
-  description: As part of the web monetization initiative, we developed a web that helps users to track cases of COVID-19 infection. This project won third prize in the dev (Grant for the web hackathon) category.
+  description: This project won third prize in the dev (Grant for the Web Hackathon category).
   url: https://github.com/itshally/wb-covid19
   
   category: project
   links:
-    - name: Gtihub Source Code
+    - name: Gtihub Source Code📌
       url: https://github.com/itshally/wb-covid19
     - name: Dev.to Articles
       url: https://dev.to/krishnakakade/final-submission-covid-19-tracker-news-1m94
