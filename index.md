@@ -30,6 +30,7 @@ Contact me at <krishnakakade77@gmail.com>.
 
 ## Latest Blog Posts
 
+* [Tease of continuation in design - Say it without saying it](https://dev.to/krishnakakade/tease-of-continuation-in-design-say-it-without-saying-it-59am) - 29-12-2022 1:05PM
 * [Using Chat GPT in UX design process](https://dev.to/krishnakakade/using-chat-gpt-in-ux-design-process-4doo) - 22-12-2022 5:06PM
 
 `If we didn't find ourselves, we will end up living someone else's life.` - krishnadevz
