@@ -1,7 +1,7 @@
-- title: Breath
+- title: Breath UX & UI Case Study
   img: breathlogo.png
   description: An app that helps user’s deal with mental health issues.
-  url: https://youtube.com/spanningtree/
+  url: https://www.youtube.com/watch?v=puDgjsLEBfk&t=1s&ab_channel=krishnadevz
   
   category: project
   links:
@@ -20,6 +20,6 @@
   links:
     - name: Gtihub Source Code📌
       url: https://github.com/itshally/wb-covid19
-    - name: Dev.to Articles
+    - name: Dev.to Articles ✍🏻
       url: https://dev.to/krishnakakade/final-submission-covid-19-tracker-news-1m94
     
