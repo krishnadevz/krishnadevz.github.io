@@ -35,4 +35,4 @@ Contact me at <krishnakakade77@gmail.com>.
 
 `If we didn't find ourselves, we will end up living someone else's life.` - krishnadevz
 
-![Mrrobot](https://media.giphy.com/media/ZKQpx4TYrxTtS/giphy.gif)
+<center> ![Mrrobot](https://media.giphy.com/media/ZKQpx4TYrxTtS/giphy.gif) </center>
