@@ -3,16 +3,17 @@ layout: default
 ---
 Hi, I'm Krishna 👋🏻.
 
-Hello, I'm Krishna and I'm based in Maharashtra, India. I am currently working on UX/UI, User Experience Design/Research projects and actively seeking UI/UX design jobs. As a designer, I am passionate about improving the lives of humans, and I always strive to learn something new on a daily basis.
+Hello, I'm Krishna and I'm based in Maharashtra, India. I am actively seeking UX/UI design opportunities and am currently working on user experience design and research projects. As a designer, I am passionate about improving the lives of humans, and I always strive to learn something new on a daily basis.
 
 The things I enjoy are design, writing, drawing, clicking pictures, and making videos.
 
+* My User Interface (UI) design work is available for viewing on the [Figma Community](https://www.figma.com/@krishnadevz)
 
 <!--* My design work can be found on  [Behance](https://www.behance.net/krishnakakade) & on  [Figma Community](https://www.figma.com/@krishnadevz).
 *  I am Available for fulltime **UI/UX Design** related opportunities. 
 -->
 
-Contact me at <krishnakakade77@gmail.com>.
+* Contact me at <krishnakakade77@gmail.com>.
 
 ## Projects
 
