@@ -31,6 +31,7 @@ The things I enjoy are design, writing, drawing, clicking pictures, and making v
 
 ## Latest Blog Posts
 
+* [How human psychology is used for user experience design in apps](https://dev.to/krishnakakade/how-human-psychology-is-used-for-user-experience-design-in-apps-2odc) - 11-01-2023 10:21AM
 * [Tease of continuation in design - Say it without saying it](https://dev.to/krishnakakade/tease-of-continuation-in-design-say-it-without-saying-it-59am) - 29-12-2022 1:05PM
 * [Using Chat GPT in UX design process](https://dev.to/krishnakakade/using-chat-gpt-in-ux-design-process-4doo) - 22-12-2022 5:06PM
 
