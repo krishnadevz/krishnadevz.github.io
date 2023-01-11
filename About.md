@@ -4,9 +4,9 @@ layout: default
 
 # About Me 📝
 
-* I have always enjoyed doing creative things, and I still do that today. Some of those things are photography, music, movies, travel, art, filming videos, and designing.
+* I have always enjoyed doing creative things, and I still do that today. Some of those things are photography, music, movies, travel, writing, art, filming videos, and designing.
 
-* My Instagram account features photos and short films (reels) [@krishnadevz](https://www.instagram.com/krishnadevz/) , I would be glad to hear from you if you like my Instagram work and have any opportunities related to photography. I can be reached at **krishnakakade77@gmail.com**. 
+* On my Instagram, you'll find a collection of visual storytelling, including photographs, short films, and written musings, all centered around exploring and expressing my emotions and personal experiences. [@krishnadevz](https://www.instagram.com/krishnadevz/) , Hit me up if you dig my Instagram game and want to collaborate on some photography projects. I can be reached at **krishnakakade77@gmail.com**. 
 
 * Sometimes I make videos on [Youtube](https://www.youtube.com/channel/UCTtvSf6G8KHpeh2i8t48PsQ).
 
