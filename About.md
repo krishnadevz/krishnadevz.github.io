@@ -18,5 +18,11 @@ layout: default
 
 * Last updated 22 Dec 2022 - 3:24 PM. 
 
+# Current Read
+
+* `Lust For Life by Irving Stone`
+
+
+
 
 
