@@ -10,7 +10,7 @@ layout: default
 
 * Sometimes I make videos on [Youtube](https://www.youtube.com/channel/UCTtvSf6G8KHpeh2i8t48PsQ).
 
-* Check out my podcast and let me know your thoughts! [Krishnadevz Talk's Spotify Podcast]([https://open.spotify.com/episode/3BvAoNcc8X1X1q39bSJnUD?si=juGLp2nBSv2RL2JuD1wADA&nd=1](https://open.spotify.com/show/7G3FrrDdYnYRnzGghcwCyB))
+* Check out my podcast and let me know your thoughts! [Krishnadevz Talk's Spotify Podcast](https://open.spotify.com/show/7G3FrrDdYnYRnzGghcwCyB)
 
 * Glad to connect on a so-called professional networking site [Linkedin](https://www.linkedin.com/in/krishnakakade/).
 
