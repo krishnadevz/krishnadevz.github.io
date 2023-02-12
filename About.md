@@ -27,6 +27,7 @@ layout: default
 # Favorite Show's of all time 
 * `Mr. Robot` by Sam Esmail was watched on air dates.
 * `Stranger Things` by Duffer Brother's
+* `Breaking Bad`
 # Favorite Movie's of all time 
 * `Dobhi Ghat` - 2009 wathed more than 15+ times.
 * `Into the wild` - 2007 based on a book called 'Into the wild'.
