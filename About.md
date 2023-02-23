@@ -29,6 +29,7 @@ layout: default
 * `Stranger Things` by Duffer Brother's
 * `Breaking Bad`
 # Favorite Movie's of all time 
+* `The Last Film Show` - 2021 Directed by Pan Nalin (Academy Awards Nominated).
 * `Dobhi Ghat` - 2009 wathed more than 15+ times.
 * `Into the wild` - 2007 based on a book called 'Into the wild'.
 * `Forrest Gump` - Tom Hanks masterpiece also movie called `Good will hunting`.
