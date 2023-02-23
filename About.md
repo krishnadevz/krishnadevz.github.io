@@ -30,6 +30,8 @@ layout: default
 * `Breaking Bad`
 # Favorite Movie's of all time 
 * `The Last Film Show` - 2021 Directed by Pan Nalin (Academy Awards Nominated).
+* `Fight Club` - Brad Pitt in lead role released in 1999.
+* `Kurt Cobain: Montage of Heck` <333 - Documentary on Kurt Cobain's life released in 2015. 
 * `Dobhi Ghat` - 2009 wathed more than 15+ times.
 * `Into the wild` - 2007 based on a book called 'Into the wild'.
 * `Forrest Gump` - Tom Hanks masterpiece also movie called `Good will hunting`.
