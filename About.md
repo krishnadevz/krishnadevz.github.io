@@ -36,6 +36,7 @@ layout: default
 * `Rock On` - 2008 by Abhishek Kapoor.
 * `Rockstar`- 2011 by imitiaz ali + Tamasha - 2015, Yeh Jawaani Hai Deewani - 2013 by same director. 
 * `The Namesake`- 2007 starring Irfan Khan.
+* `Photograph` - Starring Nawazuddin Siddiqui,Sanya Malhotra - 17 May 2019 
 * `3 Idiots`- 2009 by raj kumar hirani. 
 
 
