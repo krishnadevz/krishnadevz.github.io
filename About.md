@@ -25,7 +25,7 @@ layout: default
 * `How To Steal Like An Artist`. - by Austin Kleon.
 * `Do Epic Shit` - by Ankur Wariko.
 * `Monk Who Sold His Ferrari` - by Robin Sharma.
-* `Journals` - by Book by **Kurt Cobain** his personal journal about art, music & things about his life released in public after he died.
+* `Journals` - book by **Kurt Cobain** his personal journal about art, music & things about his life released in public after he died.
     
 # Current Read
 
