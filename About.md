@@ -20,6 +20,13 @@ layout: default
 
 * Last updated 12 Feb 2023 - 6:33 PM. 
 
+# Past Reads
+* `The Subtle Art Of Not Giving F*ck`. - by Mark Manson
+* `How To Steal Like An Artist`. - by Austin Kleon.
+* `Do Epic Shit` - by Ankur Wariko.
+* `Monk Who Sold His Ferrari` - by Robin Sharma.
+* `Journals` - by Book by **Kurt Cobain** his personal journal about art, music & things about his life released in public after he died.
+    
 # Current Read
 
 * `Lust For Life by Irving Stone`
@@ -28,6 +35,8 @@ layout: default
 * `Mr. Robot` by Sam Esmail was watched on air dates.
 * `Stranger Things` by Duffer Brother's
 * `Breaking Bad`
+* `Farzi` - Starring Shahid Kapoor, Bhuvan, Vijay Sethupathi released on 10 February 2023.
+* `Little Things` - Written by Dhruv Sehgal, starring Dhruv Sehgal & Mithila Palkar.
 # Favorite Movie's of all time 
 * `The Last Film Show` - 2021 Directed by Pan Nalin (Academy Awards Nominated).
 * `Fight Club` - Brad Pitt in lead role released in 1999.
