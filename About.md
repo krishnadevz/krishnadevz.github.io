@@ -18,8 +18,6 @@ layout: default
 
 * If you're interested in my music taste check my youtube playlist [krishnadevz playlist](https://youtube.com/playlist?list=PLpgxnKQJjhelT86IP_4S-DNQWHNIpaxYo).
 
-* Last updated 12 Feb 2023 - 6:33 PM. 
-
 # Past Reads
 * `The Subtle Art Of Not Giving F*ck`. - by Mark Manson
 * `How To Steal Like An Artist`. - by Austin Kleon.
@@ -58,4 +56,5 @@ layout: default
 * `DostCast` - Does podcasts & Fun Conversations.
 * `Untriggered with AminJaz` - Comedy podcast.
 
+* Last updated 24 Feb 2023 - 1:49 PM. 
 
