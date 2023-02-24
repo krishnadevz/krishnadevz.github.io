@@ -10,7 +10,7 @@ The things I enjoy are design, writing, drawing, clicking pictures, and making v
 * My User Interface (UI) design work is available for viewing on the [Figma Community](https://www.figma.com/@krishnadevz)
 
 <!--* My design work can be found on  [Behance](https://www.behance.net/krishnakakade) & on  [Figma Community](https://www.figma.com/@krishnadevz).
-*  I am Available for fulltime **UI/UX Design** related opportunities. 
+*  I am Available for fulltime **UI/UX Design**, **Writing**  related opportunities. 
 -->
 
 * Contact me at <krishnakakade77@gmail.com>.
