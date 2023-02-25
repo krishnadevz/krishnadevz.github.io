@@ -36,6 +36,7 @@ layout: default
 * `Farzi` - Starring Shahid Kapoor, Bhuvan, Vijay Sethupathi released on 10 February 2023.
 * `Little Things` - Written by Dhruv Sehgal, starring Dhruv Sehgal & Mithila Palkar.
 # Favorite Movie's of all time 
+* `Rocky Film franchise` - Starring Sylvester Stallone.
 * `The Last Film Show` - 2021 Directed by Pan Nalin (Academy Awards Nominated).
 * `Fight Club` - Brad Pitt in lead role released in 1999.
 * `Kurt Cobain: Montage of Heck` <333 - Documentary on Kurt Cobain's life released in 2015. 
