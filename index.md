@@ -7,7 +7,7 @@ Hello, I'm Krishna and I'm based in Maharashtra, India. I am actively seeking UX
 
 The things I enjoy are design, writing, drawing, clicking pictures, and making videos.
 
-* My User Interface (UI) design work is available for viewing on the [Figma Community](https://www.figma.com/@krishnadevz)
+* My User Experience(UX) & User Interface (UI) design work is can be found on the [Behance](https://www.behance.net/krishnakakade) & [Figma Community](https://www.figma.com/@krishnadevz).
 
 <!--* My design work can be found on  [Behance](https://www.behance.net/krishnakakade) & on  [Figma Community](https://www.figma.com/@krishnadevz).
 *  I am Available for fulltime **UI/UX Design**, **Writing**  related opportunities. 
