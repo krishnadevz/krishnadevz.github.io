@@ -50,7 +50,7 @@ layout: default
 * `Photograph` - Starring Nawazuddin Siddiqui,Sanya Malhotra - 17 May 2019 
 * `3 Idiots`- 2009 by raj kumar hirani. 
 * `The Internet's Own Boy`- he Story of Aaron Swartz founder of Reddit.
-* `*Snowden*` - Adapted from: The Snowden Files.
+* `Snowden` - Adapted from: The Snowden Files.
 
 # Favorite Youtube channel's of all time 
 * `Casey Neistat` - (filmmaker, vlogger) I Binge watched his all videos again & again.
