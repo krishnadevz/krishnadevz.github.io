@@ -9,7 +9,17 @@
       url: https://www.youtube.com/watch?v=puDgjsLEBfk&t=1s&ab_channel=krishnadevz
     - name: Behance Case Study ✍🏻
       url: https://www.behance.net/gallery/160233787/Breath-Mental-Health-App-%28UX-UI-Case-Study%29
-    
+      
+- title: Career - खोज UX & UI Case Study
+  img: Careerखोज.png
+  description: An app that helps user’s deal with career related problems.
+  url: https://www.youtube.com/watch?v=puDgjsLEBfk&t=1s&ab_channel=krishnadevz
+  
+  category: project
+  links:
+    - name: Figma Case Study 🔗 ✍🏻
+      url: https://www.figma.com/file/fgTjxtt4jvXWbictJ4u8vE/User-Research?node-id=11%3A2&t=MvuzuX0lNZwdInjV-1
+      
 
 - title: COV-19 Tracker + web monetization
   img: webmoneti.png
