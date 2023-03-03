@@ -52,6 +52,7 @@ layout: default
 * `The Internet's Own Boy`- The Story of Aaron Swartz founder of Reddit.
 * `Snowden` - Adapted from: The Snowden Files.
 * `Beautiful Boy` - Starring Timothee Chalamate.
+* `Little Women` - Starring Timothee Chalamate, Emma Watson <333. 
 
 # Favorite Youtube channel's of all time 
 * `Casey Neistat` - (filmmaker, vlogger) I Binge watched his all videos again & again.
