@@ -35,6 +35,7 @@ layout: default
 * `Breaking Bad`
 * `Farzi` - Starring Shahid Kapoor, Bhuvan, Vijay Sethupathi released on 10 February 2023.
 * `Little Things` - Written by Dhruv Sehgal, starring Dhruv Sehgal & Mithila Palkar.
+* `The Healing Powers of Dude` - When an 11-year-old boy with social anxiety disorder must start middle school, he finds strength in a lovable comfort mutt(dog) named Dude.
 # Favorite Movie's of all time 
 * `Rocky Film franchise` - Starring Sylvester Stallone.
 * `The Last Film Show` - 2021 Directed by Pan Nalin (Academy Awards Nominated).
@@ -61,7 +62,7 @@ layout: default
 * `DostCast` - Does podcasts & Fun Conversations.
 * `Untriggered with AminJaz` - Comedy podcast.
 
-`we do not forgive, we do not forget, Expect us.` - Anonymous
+`we do not forgive, we do not forget, Expect us.` - Anonymous Cult.
 
 * Last updated 24 Feb 2023 - 1:49 PM. 
 
