@@ -37,6 +37,7 @@ layout: default
 * `Little Things` - Written by Dhruv Sehgal, starring Dhruv Sehgal & Mithila Palkar.
 * `The Healing Powers of Dude` - When an 11-year-old boy with social anxiety disorder must start middle school, he finds strength in a lovable comfort mutt(dog) named Dude.
 # Favorite Movie's of all time 
+* `Awakenings` - 1990 starring(Robert De Niro, Robin williams) emotional drama flim love, peace, empathy. 
 * `Rocky Film franchise` - Starring Sylvester Stallone.
 * `The Last Film Show` - 2021 Directed by Pan Nalin (Academy Awards Nominated).
 * `Fight Club` - Brad Pitt in lead role released in 1999.
