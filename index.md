@@ -31,6 +31,7 @@ The things I enjoy are design, writing, drawing, clicking pictures, and making v
 
 ## Latest Blog Posts
 
+* [Heuristic Evaluation Analysis: Comparing Amazon and Flipkart👁️](https://krishnakakade.medium.com/heuristic-evaluation-analysis-comparing-amazon-and-flipkart-2fa9c0fef87f) - 10-03-2023 3: 15PM
 * [100 Days of UI Design (DailyUI Challenge): A Journey Review](https://krishnakakade.medium.com/100-days-of-ui-design-dailyui-challenge-a-journey-review-a29f22cb525c) - 13-02-2023 4:10PM
 *  [How human psychology is used for user experience design in apps](https://dev.to/krishnakakade/how-human-psychology-is-used-for-user-experience-design-in-apps-2odc) - 11-01-2023 10:21AM
 * [Tease of continuation in design - Say it without saying it](https://dev.to/krishnakakade/tease-of-continuation-in-design-say-it-without-saying-it-59am) - 29-12-2022 1:05PM
