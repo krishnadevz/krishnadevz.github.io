@@ -43,6 +43,7 @@ layout: default
 * `Fight Club` - Brad Pitt in lead role released in 1999.
 * `Kurt Cobain: Montage of Heck` <333 - Documentary on Kurt Cobain's life released in 2015. 
 * `Dobhi Ghat` - 2009 wathed more than 15+ times.
+* `Udaan` - 2010 After being expelled from school, Rohan returns home to a strict father as well as a half-brother he was unaware of. He is forced to work at his father's factory even though he wants to write.
 * `Into the wild` - 2007 based on a book called 'Into the wild'.
 * `Forrest Gump` - Tom Hanks masterpiece also movie called `Good will hunting`.
 * `Fantastic mr fox`by legendary Wes Anderson.
