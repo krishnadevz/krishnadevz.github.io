@@ -46,7 +46,7 @@ layout: default
 * `Udaan` - 2010 After being expelled from school, Rohan returns home to a strict father as well as a half-brother he was unaware of. He is forced to work at his father's factory even though he wants to write.
 * `Into the wild` - 2007 based on a book called 'Into the wild'.
 * `Forrest Gump` - Tom Hanks masterpiece also movie called `Good will hunting`.
-* `Ferris Bueller's Day Off` - (1986) If you don't stop and look around once in a while, you could miss it.” – Ferris Bueller.
+* `Ferris Bueller's Day Off` - (1986) If you don't stop and look around once in a while, you could miss it. – Ferris Bueller.
 * `Fantastic mr fox`by legendary Wes Anderson.
 * `Rock On` - 2008 by Abhishek Kapoor.
 * `Rockstar`- 2011 by imitiaz ali + `Tamasha` - 2015, `Yeh Jawaani Hai Deewani` - 2013 by same director. 
