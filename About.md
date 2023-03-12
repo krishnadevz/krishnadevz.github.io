@@ -36,6 +36,7 @@ layout: default
 * `Farzi` - Starring Shahid Kapoor, Bhuvan, Vijay Sethupathi released on 10 February 2023.
 * `Little Things` - Written by Dhruv Sehgal, starring Dhruv Sehgal & Mithila Palkar.
 * `The Healing Powers of Dude` - When an 11-year-old boy with social anxiety disorder must start middle school, he finds strength in a lovable comfort mutt(dog) named Dude.
+
 # Favorite Movie's of all time 
 * `Awakenings` - 1990 starring(Robert De Niro, Robin williams) emotional drama flim love, peace, empathy. 
 * `Rocky Film franchise` - Starring Sylvester Stallone.
