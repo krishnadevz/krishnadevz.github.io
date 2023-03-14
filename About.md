@@ -63,9 +63,7 @@ layout: default
 # Favorite Youtube channel's of all time 
 * `Casey Neistat` - (filmmaker, vlogger) I Binge watched his all videos again & again.
 * `Chalchitra Talks & Kitaabi Cabins` - They talk about movies, books & all the stuff related to art, poetries.
-* `Ranveer Allahbadia & Beer Biceps` - Talk's about spirituality & does podcasts.
 * `DostCast` - Does podcasts & Fun Conversations.
-* `Untriggered with AminJaz` - Comedy podcast.
 
 `we do not forgive, we do not forget, Expect us.` - Anonymous Cult.
 
