@@ -65,7 +65,5 @@ layout: default
 * `Chalchitra Talks & Kitaabi Cabins` - They talk about movies, books & all the stuff related to art, poetries.
 * `DostCast` - Does podcasts & Fun Conversations.
 
-`we do not forgive, we do not forget, Expect us.` - Anonymous Cult.
-
 * Last updated 11 March 2023 - 1:55 PM. 
 
