@@ -29,7 +29,7 @@ layout: default
 
 * `lust for life` - by Irving Stone.
 
-# Favorite Show's of all time 
+# favorite show's of all time 
 * `mr.robot` by sam esmail was watched on air dates.
 * `stranger things` by duffer brother's
 * `breaking bad`.
