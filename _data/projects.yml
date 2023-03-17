@@ -1,36 +1,36 @@
-- title: Breath UX & UI Case Study
+- title: breath UX & UI Case Study
   img: breathlogo.png
-  description: An app that helps user’s deal with mental health issues.
+  description: an app that helps user’s deal with mental health issues.
   url: https://www.youtube.com/watch?v=puDgjsLEBfk&t=1s&ab_channel=krishnadevz
   
   category: project
   links:
-    - name: Watch Breath UX/UI Case Study Youtube Demo📌
+    - name: watch breath UX/UI case study youtube demo📌
       url: https://www.youtube.com/watch?v=puDgjsLEBfk&t=1s&ab_channel=krishnadevz
-    - name: Behance Case Study ✍🏻
+    - name: behance case study ✍🏻
       url: https://www.behance.net/gallery/160233787/Breath-Mental-Health-App-%28UX-UI-Case-Study%29
       
-- title: Career - खोज UX & UI Case Study
+- title: career - खोज UX & UI case study
   img: Careerखोज.png
-  description: An app that helps user’s deal with career related problems.
+  description: an app that helps people discover career options that align with their abilities and interests..
   url: https://www.youtube.com/watch?v=puDgjsLEBfk&t=1s&ab_channel=krishnadevz
   
   category: project
   links:
-    - name: Figma Case Study 🔗 ✍🏻
+    - name: figma case study 🔗 ✍🏻
       url: https://www.figma.com/file/fgTjxtt4jvXWbictJ4u8vE/User-Research?node-id=11%3A2&t=MvuzuX0lNZwdInjV-1
-    - name: Work In Progress ⚠️⚒️
+    - name: work in progress ⚠️⚒️
       url: https://www.figma.com/file/fgTjxtt4jvXWbictJ4u8vE/User-Research?node-id=11%3A2&t=MvuzuX0lNZwdInjV-1  
 
-- title: COV-19 Tracker + web monetization
+- title: cov-19 tracker + web monetization
   img: webmoneti.png
-  description: This project won third prize in the dev (Grant for the Web Hackathon - 2020 category).
+  description: this project won third prize in the dev (Grant for the Web Hackathon - 2020 category).
   url: https://github.com/itshally/wb-covid19
   
   category: project
   links:
-    - name: Gtihub Source Code📌
+    - name: github source code📌
       url: https://github.com/itshally/wb-covid19
-    - name: Dev.to Articles ✍🏻
+    - name: dev.to articles ✍🏻
       url: https://dev.to/krishnakakade/final-submission-covid-19-tracker-news-1m94
     
