@@ -18,6 +18,7 @@ layout: default
 
 * if you're interested in my music taste check my youtube playlist [krishnadevz playlist](https://youtube.com/playlist?list=PLpgxnKQJjhelT86IP_4S-DNQWHNIpaxYo).
 
+
 # past reads
 * `the subtle art of not giving f*ck`. - by mark manson
 * `how to steal like an artist`. - by austin kleon.
@@ -61,10 +62,29 @@ layout: default
 * `little women` - Starring Timothee Chalamate, Emma Watson <333. 
 * `call me by your name` - starring Timothee Chalamet <<<333, story about first love between Elio & Oliver.
 
+# fourite musicians & bands of all time
+* `the beatles` - john lennon <3333, sir paul, george harrison, ringostar.
+*  `radiohead` - their music says to me you will be okay hopefully you will also resonate with the same feelings buddy. 
+*  `pink folyd` - psychedelic songs but sometimes i feel calm after listening to them.
+*  `nirvana` - free from suffering name tells everything, love kurt cobain icon <3333.
+*  `led zepline` - only when in full high-packed energy mood is on they always rock. 
+*  `oasis` - liam and noel gallagher's band live forever.
+*  `queen` - freddie what a legendary frontman and band, great songs.
+*  `john lennon <3333` - imagine there is no religion in this world only people with heart full of love(reframed), give peace a chance.
+*  `eminem` - slim shady marshall mathers <33, the fact he is too fast even if i slow down the speed still he speaks fast.
+*  `david bowie` - we can be hero's is there life on mars.
+*  `2pac` - after all he is a legendary rapper(dear mama, changes <333).
+*  `michael jackson` - what a legend, great lyrics sir apart from controversy great musician fact my mother used to see his dance moves.
+*  `coldplay` - chris martin rocks, i really love this band since long time because i can relate to their music.
+*  `indian legends` - kishor da, lata didi, mehdi hasan(pakistani), amit trivedi, ar.rahman, prateek kuhad.
+*  `honrable mentions` - swifty, selenator, 1 direction, styles army,the weeknd.
+*  there are many musicians and bands i listen to, i will be in the future but i wasn't able to mention them here for updated songs check my youtube playlist [krishnadevz playlist](https://youtube.com/playlist?list=PLpgxnKQJjhelT86IP_4S-DNQWHNIpaxYo).    
+
 # favorite youtube channel's of all time 
 * `casey neistat` - (filmmaker, vlogger) i Binge watched his all videos again & again.
 * `chalchitra talks & kitaabi cabins` - they talk about movies, books & all the stuff related to art, poetries.
 * `dostcast` - does podcasts & fun conversations.
+* `bollywood & hollywood silver screen` - it makes me feel happy especially the kid inside me gets happy after watching this channel.
 
-* last updated 17 March 2023 - 4:01 PM. 
+* last updated 23 March 2023 - 5:34 PM. 
 
