@@ -62,7 +62,7 @@ layout: default
 * `little women` - Starring Timothee Chalamate, Emma Watson <333. 
 * `call me by your name` - starring Timothee Chalamet <<<333, story about first love between Elio & Oliver.
 
-# fourite musicians & bands of all time
+# favorite musicians & bands of all time
 * `the beatles` - john lennon <3333, sir paul, george harrison, ringostar.
 *  `radiohead` - their music says to me you will be okay hopefully you will also resonate with the same feelings buddy. 
 *  `pink folyd` - psychedelic songs but sometimes i feel calm after listening to them.
