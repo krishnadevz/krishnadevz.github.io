@@ -45,6 +45,7 @@ layout: default
 * `fight club` - Brad Pitt in the lead role, released in 1999.
 * `kurt cobain: montage of heck <333` - documentary on Kurt Cobain's life released in 2015.
 * `dobhi ghat` - 2009 watched more than 15+ times.
+* `life in metro` - multiple stories of different folks, what a music bro great.
 * `udaan` - 2010 after being expelled from school, Rohan returns home to a strict father as well as a half-brother he was unaware of. He is forced to work at his father's factory even though he wants to write.
 * `into the wild` - 2007 based on a book called 'Into the Wild'.
 * `forrest gump` - Tom Hanks masterpiece also movie called good will hunting.
