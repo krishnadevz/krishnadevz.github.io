@@ -28,7 +28,7 @@ layout: default
     
 # current read
 
-* `lust for life` - by Irving Stone.
+* `lust for life` - by irving stone - update(paused since two three weeks working and learning about stuff going through creative block in case of photography & writing).
 
 # favorite show's of all time 
 * `mr.robot` by sam esmail was watched on air dates.
