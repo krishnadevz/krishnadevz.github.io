@@ -4,8 +4,7 @@ layout: default
 hi, i'm krishna 👋🏻.
 
 i'm based in maharashtra, india. i am actively seeking ux/ui design opportunities and i am currently working on user experience design and research projects. 
-As a designer, i am passionate about improving users' lives through design and delivering innovative experiences with a creative approach. 
-My strengths includes creativity, strong attention to detail, and an empathetic nature that prioritizes understanding the user's perspective to solve their problems, and i always strive to learn something new on a daily basis.
+as a designer, i am passionate about improving users' lives through design and delivering innovative experiences with a creative approach. i always strive to learn something new on a daily basis.
 
 the things i enjoy are design, writing, drawing, clicking pictures, and making videos.
 
