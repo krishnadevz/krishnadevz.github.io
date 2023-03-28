@@ -52,6 +52,7 @@ layout: default
 * `forrest gump` - Tom Hanks masterpiece also movie called good will hunting.
 * `ferris bueller's day off` - (1986) "If you don't stop and look around once in a while, you could miss it." – Ferris Bueller.
 * `fantastic mr fox` - by legendary Wes Anderson.
+* `jurassic park series` - i was interested in dinosaurs since young age so i really loved this movie series by sir steven spielberg.
 * `rock on` - 2008 by Abhishek Kapoor.
 * `rockstar` - 2011 by Imtiaz Ali + tamasha - 2015, yeh jawaani hai deewani - 2013 by the same director.
 * `the namesake` - 2007 starring Irrfan Khan.
