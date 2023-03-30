@@ -64,6 +64,7 @@ layout: default
 * `beautiful boy` - starring Timothée Chalamet movie is about substance addiction.
 * `little women` - Starring Timothee Chalamate, Emma Watson <333. 
 * `call me by your name` - starring Timothee Chalamet <<<333, story about first love between Elio & Oliver.
+* `helvetica` - about development of one of the most used & loved typefaces all over the world especially(new york city).
 
 # favorite musicians & bands of all time
 * `the beatles` - john lennon <3333, sir paul, george harrison, ringostar.
