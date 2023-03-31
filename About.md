@@ -39,6 +39,7 @@ layout: default
 * `the healing powers of dude` - when an 11-year-old boy with social anxiety disorder must start middle school, he finds strength in a lovable comfort mutt(dog) named dude.
 
 # favorite movie's of all time 
+* `Two` - short flim by legendary sir satyajit ray message to take happiness is dependent on our beliefs and thoughts. 
 * `batman series` - in the movie, christian bale's character faces and overcomes personal fears to help others, much like batman himself(fun fact : i like to call myself a batman but i am more like a joker). 
 * `awakenings` - 1990 starring (Robert De Niro, Robin Williams) emotional drama film about love, peace, and empathy.
 * `rocky film franchise` - starring Sylvester Stallone.
