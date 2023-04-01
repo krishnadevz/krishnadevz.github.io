@@ -8,6 +8,8 @@ layout: default
 
 * on my Instagram, you'll find a collection of visual storytelling, including photographs, short films, and written musings, all centered around exploring and expressing my emotions and personal experiences. [@krishnadevz](https://www.instagram.com/krishnadevz/) , let me know what do you think about it? and want to collaborate on some photography projects. I can be reached at **krishnakakade77@gmail.com**. 
 
+* all of my links & some photography related stuff is available on 👉🏻 [bento.me/krishnadevz](https://bento.me/krishnadevz). 
+
 * sometimes I make videos on [youtube](https://www.youtube.com/channel/UCTtvSf6G8KHpeh2i8t48PsQ).
 
 * check out my podcast and let me know your thoughts! [krishnadevz talk's spotify podcast](https://open.spotify.com/show/7G3FrrDdYnYRnzGghcwCyB).
