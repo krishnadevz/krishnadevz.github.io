@@ -92,6 +92,7 @@ layout: default
 * `mkbhd` - a tech guy cool stuff about new and retro tech.
 * `chalchitra talks & kitaabi cabins` - they talk about movies, books & all the stuff related to art, poetries.
 * `dostcast` - does podcasts & fun conversations.
+* `Neelesh Mishra` - the slow interview with neelesh misra.
 * `bollywood & hollywood silver screen` - it makes me feel happy especially the kid inside me gets happy after watching this channel.
 
 * signing off krishna says Love, Peace, and Empathy.
