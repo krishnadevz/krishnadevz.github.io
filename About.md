@@ -95,6 +95,9 @@ layout: default
 * `Neelesh Mishra` - the slow interview with neelesh misra.
 * `bollywood & hollywood silver screen` - it makes me feel happy especially the kid inside me gets happy after watching this channel.
 
+# favorite food
+* `Food made by mother` - veg food (daal chawal, paneer, kheer, bhindi) + less (oily, spicy).
+
 * signing off krishna says Love, Peace, and Empathy.
 * last updated 23 March 2023 - 5:34 PM. 
 
