@@ -14,7 +14,7 @@ the things i enjoy are design, writing, drawing, clicking pictures, and making v
 * i am Available for fulltime **UI/UX Design**, **Writing**  related opportunities. 
 -->
 
-* please contact me at <krishnakakade77@gmail.com>.
+* please contact me at <krishnakakade77@gmail.com> or book a discovery call with me on [caldenly](https://calendly.com/krishnakakade/15min?back=1&month=2023-04).
 
 ## projects
 
