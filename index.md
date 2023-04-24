@@ -3,8 +3,8 @@ layout: default
 ---
 hi, i'm krishna 👋🏻.
 
-i'm based in maharashtra, india. i am actively seeking ux/ui design opportunities and i am currently working on user experience design and research projects. 
-as a designer, i am passionate about improving users' lives through design and delivering innovative experiences with a creative approach. i always strive to learn something new on a daily basis.
+i'm based in pune maharashtra, india. i work as a UI/UX Designer at Skylarklabs.ai in Pune, Maharashtra, India. My job is to design and research user experience projects.
+i love making designs that make people's lives easier and more enjoyable, and I'm always trying to learn new things.
 
 the things i enjoy are design, writing, drawing, clicking pictures, and making videos.
 
