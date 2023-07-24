@@ -16,6 +16,8 @@ layout: default
 
 * glad to connect on a so-called professional networking site [linkedin](https://www.linkedin.com/in/krishnakakade/).
 
+* pinterest is a good place to check my stuff [pinterest](https://in.pinterest.com/krishnadevzz/)
+
 * thoughts & user Interface / user Experience work dumping on [twitter](https://twitter.com/krishnadevz).
 
 * if you're interested in my music taste check my youtube playlist [krishnadevz playlist](https://youtube.com/playlist?list=PLpgxnKQJjhelT86IP_4S-DNQWHNIpaxYo).
