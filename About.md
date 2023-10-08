@@ -14,7 +14,7 @@ layout: default
 
 * check out my podcast and let me know your thoughts! [krishnadevz talk's spotify podcast](https://open.spotify.com/show/7G3FrrDdYnYRnzGghcwCyB).
 
-* glad to connect on a so-called professional networking site [linkedin](https://www.linkedin.com/in/krishnakakade/).
+* glad to connect on a so-called professional networking site [linkedin](https://www.linkedin.com/in/krishnakakader/).
 
 * pinterest is a good place to check my stuff [pinterest](https://in.pinterest.com/krishnadevzz/)
 
