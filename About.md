@@ -24,6 +24,7 @@ layout: default
 
 
 # past reads
+* `1001 dreams: an Illustrated guide to dreams and their meanings.` - by jack altman
 * `the subtle art of not giving f*ck`. - by mark manson
 * `how to steal like an artist`. - by austin kleon.
 * `do epic shit` - by ankur wariko.
@@ -31,7 +32,7 @@ layout: default
 * `journals` - book by **Kurt Cobain** his personal journal about art, music & things about his life released in public after he died.
     
 # current read
-
+* `roads to mussoorie` - by duskin robins.
 * `lust for life` - by irving stone - update(paused since two three weeks working and learning about stuff going through creative block in case of photography & writing).
 
 # favorite show's of all time 
