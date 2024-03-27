@@ -3,8 +3,7 @@ layout: default
 ---
 hi, i'm krishna 👋🏻.
 
-i'm based in pune maharashtra, india. I am currently looking for UI/UX design-related opportunities. i am also working on user experience design and research projects. 
-as a designer, i am passionate about improving users' lives through design and delivering innovative experiences with a creative approach. i always strive to learn something new on a daily basis.
+i'm based in pune, maharashtra, india, currently working as a ux+ui designer. apart from work, i am also working on user experience design and research projects. as a designer, i am passionate about improving users' lives through design and delivering innovative experiences with a creative approach. i always eager to learn something new daily.
 the things i enjoy are design, writing, drawing, clicking pictures, and making videos.
 
 * my user experience (UX) and user interface (UI) design work can be found on the [behance](https://www.behance.net/krishnakakade) & [figma community](https://www.figma.com/@krishnadevz).
