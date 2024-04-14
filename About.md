@@ -24,6 +24,7 @@ layout: default
 
 
 # past reads
+* `where the wild things are`. - by maurice sendak
 * `1001 dreams: an Illustrated guide to dreams and their meanings.` - by jack altman
 * `the subtle art of not giving f*ck`. - by mark manson
 * `how to steal like an artist`. - by austin kleon.
