@@ -45,8 +45,8 @@ layout: default
 * `the healing powers of dude` - when an 11-year-old boy with social anxiety disorder must start middle school, he finds strength in a lovable comfort mutt(dog) named dude.
 
 # favorite movie's of all time 
-* `karwaan` - a movie about two friends sorting out some misunderstanding and then later one teenager joins them, nice movie.
-* `Two` - a short film by legendary sir satyajit ray message to take happiness is dependent on our beliefs and thoughts. 
+* `good will hunting` - in order to move on in life, one has to conquer one's fears. starring matt damon, ben affleck, robbin williams it's a great movie.
+* `two` - a short film by legendary sir satyajit ray message to take happiness is dependent on our beliefs and thoughts. 
 * `batman series` - in the movie, christian bale's character faces and overcomes personal fears to help others, much like batman himself(fun fact : i like to call myself a batman but i am more like a joker). 
 * `awakenings` - 1990 starring (Robert De Niro, Robin Williams) emotional drama film about love, peace, and empathy.
 * `rocky film franchise` - starring Sylvester Stallone.
@@ -73,6 +73,8 @@ layout: default
 * `little women` - Starring Timothee Chalamate, Emma Watson <333. 
 * `call me by your name` - starring Timothee Chalamet <<<333, story about first love between Elio & Oliver.
 * `helvetica` - about development of one of the most used & loved typefaces all over the world especially(new york city).
+* `karwaan` - a movie about two friends sorting out some misunderstanding and then later one teenager joins them, nice movie.
+
 
 # favorite musicians & bands of all time
 * `the beatles` - john lennon <3333, sir paul, george harrison, ringostar.
