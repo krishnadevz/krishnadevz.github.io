@@ -11,13 +11,23 @@
       
 - title: career - खोज UX & UI case study
   img: Careerखोज.png
-  description: an app that helps people discover career options that align with their abilities and interests..
+  description: an app that helps people discover career options that align with their abilities and interests.
   url: https://krishnakakade.medium.com/6eee50f0a0d9
   
   category: project
   links:
     - name: medium case study 🔗 ✍🏻
-      url: https://krishnakakade.medium.com/6eee50f0a0d9
+      url: https://medium.com/@krishnakakade/improving-social-sharing-on-jiocinema-a-mini-ux-case-study-72ef18d816f4
+
+- title: improving social sharing on jiocinema a mini ux case study
+  img: Jiocinema.png
+  description: a feature that can improve social sharing on jiocinema.
+  url: https://krishnakakade.medium.com/6eee50f0a0d9
+  
+  category: project
+  links:
+    - name: medium case study 🔗 ✍🏻
+      url: https://krishnakakade.medium.com/6eee50f0a0d9      
    
 
 - title: cov-19 tracker + web monetization
